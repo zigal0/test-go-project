@@ -1,4 +1,4 @@
-module gitlab.ozon.ru/serefimov/test-project
+module github.com/zigal0/test-go-project
 
 go 1.21.6
 
